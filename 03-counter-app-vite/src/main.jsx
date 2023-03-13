@@ -8,7 +8,7 @@ import './style.css'
 
 ReactDOM.createRoot(document.getElementById("root")).render(
     <React.StrictMode>
-        {/* <Tarea valor={15} /> */}
-        <Componente title="pruebas de react"></Componente>
+        <Tarea valor={15} />
+        {/* <Componente title="pruebas de react"></Componente> */}
     </React.StrictMode>
 )
